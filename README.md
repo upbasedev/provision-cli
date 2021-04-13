@@ -1,6 +1,6 @@
-## Provisioner - Provision CLI
+## ProvisionCLI - Provision CLI
 
-[![crates.io](https://meritbadge.herokuapp.com/provisioner)](https://crates.io/crates/provisioner)
+[![crates.io](https://meritbadge.herokuapp.com/provision-cli)](https://crates.io/crates/provision-cli)
 
 ### Purpose
 

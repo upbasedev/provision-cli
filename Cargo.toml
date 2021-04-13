@@ -1,12 +1,12 @@
 [package]
-name = "provisioner"
+name = "provision-cli"
 version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
 keywords = ["upcloud", "ec2", "provision", "command-line", "cli"]
 description = "Provision CLI"
-repository = "https://github.com/apibillme/provisioner"
+repository = "https://github.com/apibillme/provision-cli"
 readme = "README.md"
 
 [dependencies]
