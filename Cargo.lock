@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "provision"
+name = "provisioner"
 version = "0.0.1"
