@@ -1,13 +1,12 @@
 [package]
-name = "venom"
-version = "0.0.2"
+name = "provision"
+version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["database", "distributed", "p2p", "BFT", "real-time"]
-description = "Real-time P2P BFT KV"
-repository = "https://github.com/apibillme/venom"
-homepage = "https://venom.dev"
+keywords = ["upcloud", "ec2", "provision", "web-service", "api"]
+description = "UpCloud Provision Web Service"
+repository = "https://github.com/apibillme/provision"
 readme = "README.md"
 
 [dependencies]

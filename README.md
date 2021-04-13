@@ -1,9 +1,9 @@
-## Venom - real-time P2P BFT KV
+## Provision - UpCloud Provision Web Service
 
-[![crates.io](https://meritbadge.herokuapp.com/venom)](https://crates.io/crates/venom)
+[![crates.io](https://meritbadge.herokuapp.com/provision)](https://crates.io/crates/provision)
 
 ### Purpose
 
-The purpose of this service is to be a real-time distributed P2P BFT KV.
+The purpose of this service is to be an UpCloud provision service with JSON API.
 
 Currently this is just a placeholder.
